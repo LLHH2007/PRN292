@@ -1,0 +1,15 @@
+D:\C#\Lab6TV\bin\Debug\Lab6TV.exe.config
+D:\C#\Lab6TV\bin\Debug\Lab6TV.exe
+D:\C#\Lab6TV\bin\Debug\Lab6TV.pdb
+D:\C#\Lab6TV\bin\Debug\Interop.WMPLib.dll
+D:\C#\Lab6TV\bin\Debug\AxInterop.WMPLib.dll
+D:\C#\Lab6TV\obj\Debug\Lab6TVBT1.csprojAssemblyReference.cache
+D:\C#\Lab6TV\obj\Debug\Interop.WMPLib.dll
+D:\C#\Lab6TV\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\Lab6TV\obj\Debug\Lab6TVBT1.csproj.ResolveComReference.cache
+D:\C#\Lab6TV\obj\Debug\Lab6TV.Form1.resources
+D:\C#\Lab6TV\obj\Debug\Lab6TV.Properties.Resources.resources
+D:\C#\Lab6TV\obj\Debug\Lab6TVBT1.csproj.GenerateResource.cache
+D:\C#\Lab6TV\obj\Debug\Lab6TVBT1.csproj.CoreCompileInputs.cache
+D:\C#\Lab6TV\obj\Debug\Lab6TV.exe
+D:\C#\Lab6TV\obj\Debug\Lab6TV.pdb

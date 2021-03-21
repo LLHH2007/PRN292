@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\W4OnClass\W4OnClass\bin\Debug\W4OnClass.exe.config
+C:\Users\Admin\source\repos\W4OnClass\W4OnClass\bin\Debug\W4OnClass.exe
+C:\Users\Admin\source\repos\W4OnClass\W4OnClass\bin\Debug\W4OnClass.pdb
+C:\Users\Admin\source\repos\W4OnClass\W4OnClass\obj\Debug\W4OnClass.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\W4OnClass\W4OnClass\obj\Debug\W4OnClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\W4OnClass\W4OnClass\obj\Debug\W4OnClass.exe
+C:\Users\Admin\source\repos\W4OnClass\W4OnClass\obj\Debug\W4OnClass.pdb

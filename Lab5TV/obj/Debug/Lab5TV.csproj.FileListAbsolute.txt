@@ -1,0 +1,10 @@
+D:\C#\Lab5TV\bin\Debug\Lab5TV.exe.config
+D:\C#\Lab5TV\bin\Debug\Lab5TV.exe
+D:\C#\Lab5TV\bin\Debug\Lab5TV.pdb
+D:\C#\Lab5TV\obj\Debug\Lab5TV.csprojAssemblyReference.cache
+D:\C#\Lab5TV\obj\Debug\Lab5TV.Form1.resources
+D:\C#\Lab5TV\obj\Debug\Lab5TV.Properties.Resources.resources
+D:\C#\Lab5TV\obj\Debug\Lab5TV.csproj.GenerateResource.cache
+D:\C#\Lab5TV\obj\Debug\Lab5TV.csproj.CoreCompileInputs.cache
+D:\C#\Lab5TV\obj\Debug\Lab5TV.exe
+D:\C#\Lab5TV\obj\Debug\Lab5TV.pdb

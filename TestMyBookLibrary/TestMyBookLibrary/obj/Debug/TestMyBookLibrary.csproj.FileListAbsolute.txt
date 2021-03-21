@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\TestMyBookLibrary\TestMyBookLibrary\bin\Debug\TestMyBookLibrary.exe.config
+C:\Users\Admin\source\repos\TestMyBookLibrary\TestMyBookLibrary\bin\Debug\TestMyBookLibrary.exe
+C:\Users\Admin\source\repos\TestMyBookLibrary\TestMyBookLibrary\bin\Debug\TestMyBookLibrary.pdb
+C:\Users\Admin\source\repos\TestMyBookLibrary\TestMyBookLibrary\bin\Debug\MyBookLibrary.dll
+C:\Users\Admin\source\repos\TestMyBookLibrary\TestMyBookLibrary\obj\Debug\TestMyBookLibrary.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TestMyBookLibrary\TestMyBookLibrary\obj\Debug\TestMyBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TestMyBookLibrary\TestMyBookLibrary\obj\Debug\TestMyBookLibrary.csproj.CopyComplete
+C:\Users\Admin\source\repos\TestMyBookLibrary\TestMyBookLibrary\obj\Debug\TestMyBookLibrary.exe
+C:\Users\Admin\source\repos\TestMyBookLibrary\TestMyBookLibrary\obj\Debug\TestMyBookLibrary.pdb

@@ -1,0 +1,12 @@
+D:\C#\PRACTICALEXAM\bin\Debug\PRACTICALEXAM.exe.config
+D:\C#\PRACTICALEXAM\bin\Debug\PRACTICALEXAM.exe
+D:\C#\PRACTICALEXAM\bin\Debug\PRACTICALEXAM.pdb
+D:\C#\PRACTICALEXAM\obj\Debug\PRACTICALEXAM.csprojAssemblyReference.cache
+D:\C#\PRACTICALEXAM\obj\Debug\PRACTICALEXAM.CapNhatBangDia.resources
+D:\C#\PRACTICALEXAM\obj\Debug\PRACTICALEXAM.QuanLyChoThueBangDia.resources
+D:\C#\PRACTICALEXAM\obj\Debug\PRACTICALEXAM.Properties.Resources.resources
+D:\C#\PRACTICALEXAM\obj\Debug\PRACTICALEXAM.TimBangDia.resources
+D:\C#\PRACTICALEXAM\obj\Debug\PRACTICALEXAM.csproj.GenerateResource.cache
+D:\C#\PRACTICALEXAM\obj\Debug\PRACTICALEXAM.csproj.CoreCompileInputs.cache
+D:\C#\PRACTICALEXAM\obj\Debug\PRACTICALEXAM.exe
+D:\C#\PRACTICALEXAM\obj\Debug\PRACTICALEXAM.pdb

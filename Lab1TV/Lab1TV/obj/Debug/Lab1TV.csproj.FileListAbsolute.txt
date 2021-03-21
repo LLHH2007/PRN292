@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Lab1TV\Lab1TV\bin\Debug\Lab1TV.exe.config
+C:\Users\Admin\source\repos\Lab1TV\Lab1TV\bin\Debug\Lab1TV.exe
+C:\Users\Admin\source\repos\Lab1TV\Lab1TV\bin\Debug\Lab1TV.pdb
+C:\Users\Admin\source\repos\Lab1TV\Lab1TV\obj\Debug\Lab1TV.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lab1TV\Lab1TV\obj\Debug\Lab1TV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lab1TV\Lab1TV\obj\Debug\Lab1TV.exe
+C:\Users\Admin\source\repos\Lab1TV\Lab1TV\obj\Debug\Lab1TV.pdb

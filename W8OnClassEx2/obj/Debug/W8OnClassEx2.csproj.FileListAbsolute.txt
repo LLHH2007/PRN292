@@ -1,0 +1,10 @@
+D:\C#\W8OnClassEx2\bin\Debug\W8OnClassEx2.exe.config
+D:\C#\W8OnClassEx2\bin\Debug\W8OnClassEx2.exe
+D:\C#\W8OnClassEx2\bin\Debug\W8OnClassEx2.pdb
+D:\C#\W8OnClassEx2\obj\Debug\W8OnClassEx2.csprojAssemblyReference.cache
+D:\C#\W8OnClassEx2\obj\Debug\W8OnClassEx2.Form1.resources
+D:\C#\W8OnClassEx2\obj\Debug\W8OnClassEx2.Properties.Resources.resources
+D:\C#\W8OnClassEx2\obj\Debug\W8OnClassEx2.csproj.GenerateResource.cache
+D:\C#\W8OnClassEx2\obj\Debug\W8OnClassEx2.csproj.CoreCompileInputs.cache
+D:\C#\W8OnClassEx2\obj\Debug\W8OnClassEx2.exe
+D:\C#\W8OnClassEx2\obj\Debug\W8OnClassEx2.pdb

@@ -1,0 +1,13 @@
+D:\C#\W8OnClass\bin\Debug\W8OnClass.exe.config
+D:\C#\W8OnClass\bin\Debug\W8OnClass.exe
+D:\C#\W8OnClass\bin\Debug\W8OnClass.pdb
+D:\C#\W8OnClass\obj\Debug\W8OnClass.csprojAssemblyReference.cache
+D:\C#\W8OnClass\obj\Debug\W8OnClass.Properties.Resources.resources
+D:\C#\W8OnClass\obj\Debug\W8OnClass.csproj.GenerateResource.cache
+D:\C#\W8OnClass\obj\Debug\W8OnClass.csproj.CoreCompileInputs.cache
+D:\C#\W8OnClass\obj\Debug\W8OnClass.exe
+D:\C#\W8OnClass\obj\Debug\W8OnClass.pdb
+D:\C#\W8OnClass\obj\Debug\W8OnClass.KetNoiCSDL.resources
+D:\C#\W8OnClass\obj\Debug\W8OnClass.edit.resources
+D:\C#\W8OnClass\obj\Debug\W8OnClass.find.resources
+D:\C#\W8OnClass\obj\Debug\W8OnClass.show.resources

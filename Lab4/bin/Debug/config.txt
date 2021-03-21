@@ -1,0 +1,1 @@
+database=Northwind;Server=LONG;User id=sa; password=tv1502

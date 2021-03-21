@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Week3OnClass\Week3OnClass\obj\Debug\Week3OnClass.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Week3OnClass\Week3OnClass\obj\Debug\Week3OnClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Week3OnClass\Week3OnClass\bin\Debug\Week3OnClass.exe.config
+C:\Users\Admin\source\repos\Week3OnClass\Week3OnClass\bin\Debug\Week3OnClass.exe
+C:\Users\Admin\source\repos\Week3OnClass\Week3OnClass\bin\Debug\Week3OnClass.pdb
+C:\Users\Admin\source\repos\Week3OnClass\Week3OnClass\obj\Debug\Week3OnClass.exe
+C:\Users\Admin\source\repos\Week3OnClass\Week3OnClass\obj\Debug\Week3OnClass.pdb

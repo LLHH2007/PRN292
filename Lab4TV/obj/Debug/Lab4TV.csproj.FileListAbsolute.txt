@@ -1,0 +1,10 @@
+D:\C#\Lab4TV\bin\Debug\Lab4TV.exe.config
+D:\C#\Lab4TV\bin\Debug\Lab4TV.exe
+D:\C#\Lab4TV\bin\Debug\Lab4TV.pdb
+D:\C#\Lab4TV\obj\Debug\Lab4TV.csprojAssemblyReference.cache
+D:\C#\Lab4TV\obj\Debug\Lab4TV.Form1.resources
+D:\C#\Lab4TV\obj\Debug\Lab4TV.Properties.Resources.resources
+D:\C#\Lab4TV\obj\Debug\Lab4TV.csproj.GenerateResource.cache
+D:\C#\Lab4TV\obj\Debug\Lab4TV.csproj.CoreCompileInputs.cache
+D:\C#\Lab4TV\obj\Debug\Lab4TV.exe
+D:\C#\Lab4TV\obj\Debug\Lab4TV.pdb

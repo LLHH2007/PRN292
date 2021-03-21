@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT12Lab5TV", "BT12Lab5TV.csproj", "{B071CC4A-4D29-4F6C-B9D8-C4F1A04180D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT3Lab5TV", "..\BT3\BT3Lab5TV.csproj", "{65B09B3E-364F-4A68-8A85-EFBD61FBA9A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B071CC4A-4D29-4F6C-B9D8-C4F1A04180D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B071CC4A-4D29-4F6C-B9D8-C4F1A04180D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B071CC4A-4D29-4F6C-B9D8-C4F1A04180D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B071CC4A-4D29-4F6C-B9D8-C4F1A04180D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B09B3E-364F-4A68-8A85-EFBD61FBA9A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B09B3E-364F-4A68-8A85-EFBD61FBA9A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B09B3E-364F-4A68-8A85-EFBD61FBA9A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B09B3E-364F-4A68-8A85-EFBD61FBA9A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2686DCD4-F132-4271-AEBF-548B8B03189F}
+	EndGlobalSection
+EndGlobal
